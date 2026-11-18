@@ -21,8 +21,6 @@ Chaque dépôt présente le travail tel qu'il a été remis ou publié, avec une
 
 **Langages :** Python, Java, C# · **Apprentissage automatique :** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, imbalanced-learn, Ultralytics YOLO · **Données et statistiques :** pandas, NumPy, SciPy, Matplotlib, Seaborn · **Génie logiciel :** métriques de qualité (CK), vérification et validation, tests · **Outils :** Git, Google Colab, Jupyter, Streamlit, Flask
 
-**Langues :** français (langue maternelle) · anglais (intermédiaire)
-
 ---
 
 <details>
