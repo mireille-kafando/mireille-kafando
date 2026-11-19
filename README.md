@@ -4,7 +4,7 @@ Titulaire d'une **maîtrise en mathématiques et informatique appliquées** (con
 
 Je m'intéresse à l'apprentissage automatique appliqué au logiciel, à l'assurance qualité et à l'analyse de données, et je cherche un premier poste dans ces domaines au Québec.
 
-🌐 Portfolio : **[mireille-kafando.github.io](https://mireille-kafando.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/mireille-kafando)
+🌐 Portfolio : **[mireille-kafando.github.io](https://mireille-kafando.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/mireille-kafando-386b2a420/)
 
 #### Projets
 
@@ -32,5 +32,5 @@ I am interested in machine learning for software, quality assurance and data ana
 
 Projects: [software defect prediction](https://github.com/mireille-kafando/software-defect-prediction-promise) · [pedestrian detection for ADAS](https://github.com/mireille-kafando/pedestrian-detection-adas) · [coin classification](https://github.com/mireille-kafando/coin-classification-cnn) · [C# experiment statistics](https://github.com/mireille-kafando/csharp-immutability-experiment-statistics). Each repository reports the work as submitted or published, with a section documenting issues found afterwards.
 
-Portfolio: [mireille-kafando.github.io](https://mireille-kafando.github.io) · [LinkedIn](https://www.linkedin.com/in/mireille-kafando)
+Portfolio: [mireille-kafando.github.io](https://mireille-kafando.github.io) · [LinkedIn](https://www.linkedin.com/in/mireille-kafando-386b2a420/)
 </details>
