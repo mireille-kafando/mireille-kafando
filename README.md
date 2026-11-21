@@ -10,7 +10,7 @@ Je m'intéresse à l'apprentissage automatique appliqué au logiciel, à l'assur
 
 | Projet | En bref | Outils |
 |---|---|---|
-| [**Prédiction des défauts logiciels**](https://github.com/mireille-kafando/software-defect-prediction-promise) — mémoire de maîtrise | CNN1D, Transformer et modèles multimodaux (métriques + code source avec CodeBERT) sur 11 projets Java du corpus PROMISE ; validation intra-projet (WPDP) et inter-projets (CPDP), G-Mean, tests de Friedman et ANOVA | PyTorch, TensorFlow/Keras, Hugging Face, scikit-learn, SciPy |
+| [**Prédiction des défauts logiciels**](https://github.com/mireille-kafando/software-defect-prediction-promise) — mémoire de maîtrise | CNN1D, Transformer et modèles multimodaux (métriques + code source avec CodeBERT) sur 11 projets Java du corpus PROMISE ; validation intra-projet (WPDP) et inter-projets (CPDP), G-Mean, tests de Friedman et ANOVA ; tests automatisés et intégration continue | PyTorch, TensorFlow/Keras, Hugging Face, scikit-learn, SciPy, pytest |
 | [**Détection de piétons pour les ADAS**](https://github.com/mireille-kafando/pedestrian-detection-adas) | YOLOv8, EfficientNetB0 et U-Net ; jeu de données annoté avec CVAT ; interfaces Streamlit, Gradio et Flask | Ultralytics, TensorFlow, Flask |
 | [**Classification de pièces de monnaie**](https://github.com/mireille-kafando/coin-classification-cnn) | VGG16 par transfert et CNN séquentiel ; 98 % d'exactitude en test sur 5 classes ; interface Streamlit | TensorFlow/Keras, Albumentations, Streamlit |
 | [**Statistiques d'une expérimentation C#**](https://github.com/mireille-kafando/csharp-immutability-experiment-statistics) | Effet de nouvelles fonctionnalités d'immuabilité en C# sur la qualité du code : tests de normalité, t de Student, Mann-Whitney | pandas, SciPy, Seaborn |
@@ -19,7 +19,7 @@ Chaque dépôt présente le travail tel qu'il a été remis ou publié, avec une
 
 #### Compétences
 
-**Langages :** Python, Java, C# · **Apprentissage automatique :** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, imbalanced-learn, Ultralytics YOLO · **Données et statistiques :** pandas, NumPy, SciPy, Matplotlib, Seaborn · **Génie logiciel :** métriques de qualité (CK), vérification et validation, tests · **Outils :** Git, Google Colab, Jupyter, Streamlit, Flask
+**Langages :** Python, Java, C# · **Apprentissage automatique :** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, imbalanced-learn, Ultralytics YOLO · **Données et statistiques :** pandas, NumPy, SciPy, Matplotlib, Seaborn · **Génie logiciel :** métriques de qualité (CK), vérification et validation, tests automatisés (pytest), intégration continue (GitHub Actions) · **Outils :** Git, GitHub Actions, Google Colab, Jupyter, Streamlit, Gradio, Flask
 
 ---
 
