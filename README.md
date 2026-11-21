@@ -19,7 +19,9 @@ Chaque dépôt présente le travail tel qu'il a été remis ou publié, avec une
 
 #### Compétences
 
-**Langages :** Python, Java, C# · **Apprentissage automatique :** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, imbalanced-learn, Ultralytics YOLO · **Données et statistiques :** pandas, NumPy, SciPy, Matplotlib, Seaborn · **Génie logiciel :** métriques de qualité (CK), vérification et validation, tests automatisés (pytest), intégration continue (GitHub Actions) · **Outils :** Git, GitHub Actions, Google Colab, Jupyter, Streamlit, Gradio, Flask, ONNX Runtime
+**Langages :** Python ; Java, C# (notions) · **Apprentissage automatique :** PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, imbalanced-learn, Ultralytics YOLO · **Données et statistiques :** pandas, NumPy, SciPy, Matplotlib, Seaborn · **Génie logiciel :** métriques de qualité (CK), vérification et validation, tests automatisés (pytest), intégration continue (GitHub Actions) · **Outils :** Git, GitHub Actions, Google Colab, Jupyter, Streamlit, Gradio, Flask, ONNX Runtime
+
+**Langues :** français (langue maternelle), anglais
 
 ---
 
